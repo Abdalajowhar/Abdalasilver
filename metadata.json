@@ -2,5 +2,7 @@
   "name": "Abdala Silver - Creative E-Learning Platform",
   "description": "Premium online creative academy teaching practical video editing, graphic design, motion graphics, content creation, and AI skills for Somali and international creators.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
